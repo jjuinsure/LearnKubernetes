@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-single-pod-chart
+description: A Helm chart for deploying a single pod.
+version: 0.1.0
